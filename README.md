@@ -21,7 +21,7 @@ This game was created using:
 Begin your interstellar journey by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/victormartino/turtle-invaders.git
+git clone https://github.com/victormartino/Professional_Portfolio_Project_14__Turtle_Invaders_Game
 ```
 
 ## 🌟 Getting Started
