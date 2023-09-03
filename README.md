@@ -36,7 +36,7 @@ python main.py
 
 ## 🪐 Author
 
-- [Victor Martino](https://www.linkedin.com/in/victor-martino-446765140/): The mastermind behind this cosmic conquest.
+- [Victor Martino](https://www.linkedin.com/in/victor-martino-446765140/): The mind behind this cosmic conquest.
 
 ## 🌠 Feedback and Contributions
 
